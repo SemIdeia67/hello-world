@@ -1,1 +1,0 @@
-print("eu e meu mano Yuri")
